@@ -67,4 +67,10 @@ The following graphs were created:
 
 1. Download the repository  
 2. Open the notebook file in Jupyter Notebook  
-3. Run all cells to see analysis and graphs  
+3. Run all cells to see analysis and graphs
+
+## Sample Output
+
+![Trend](trend.png)
+![Pie](pie.png)
+![Yearly](yearly.png)
