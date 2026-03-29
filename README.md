@@ -22,6 +22,8 @@ The dataset contains historical NIFTY-50 stock market data including:
 - Close Price  
 - Shares Traded  
 - Turnover
+- 
+The dataset used in this project is included in the repository as a CSV file.
 
 ## Project Workflow
 
