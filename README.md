@@ -61,3 +61,10 @@ The following graphs were created:
 - Pandas  
 - Matplotlib  
 - Jupyter Notebook  
+
+
+## How to Run
+
+1. Download the repository  
+2. Open the notebook file in Jupyter Notebook  
+3. Run all cells to see analysis and graphs  
