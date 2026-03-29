@@ -30,4 +30,32 @@ The dataset contains historical NIFTY-50 stock market data including:
 3. Feature Engineering (Year, Month, Daily Change)  
 4. Statistical Analysis  
 5. Data Visualization  
-6. Insight Generation  
+6. Insight Generation
+
+
+## Visualizations
+
+The following graphs were created:
+
+- Line plot for closing price trend  
+- Bar charts for yearly and monthly analysis  
+- Pie chart for positive vs negative days  
+- Histogram for price distribution  
+- Scatter plot for Open vs Close relationship  
+- Volatility chart  
+
+
+## Key Insights
+
+- The NIFTY-50 index shows a strong long-term upward trend  
+- Market volatility increases during uncertain periods (e.g., crisis years)  
+- Slightly more negative days than positive days were observed  
+- All stock price variables are highly correlated
+
+
+## Tools and Technologies
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
