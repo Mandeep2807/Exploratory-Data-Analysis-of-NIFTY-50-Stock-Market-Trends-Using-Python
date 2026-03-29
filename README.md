@@ -72,5 +72,5 @@ The following graphs were created:
 ## Sample Output
 
 ![Trend](trend.png)
-![Pie](pie.png)
-![Yearly](yearly.png)
+![Pie](piechart.png)
+![Yearly](yearly_bar_chart.png)
